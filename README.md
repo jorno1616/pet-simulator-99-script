@@ -2,7 +2,8 @@
 
 copy this script and paste into injector this is an all in 1
 
-**script: loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedzen/Script-BF/refs/heads/main/.lua", true))()**
+**Script:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedzen/Script-BF/refs/heads/main/.lua", true))()**
 
 # functionsadded
 
