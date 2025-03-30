@@ -1,4 +1,4 @@
-# Pet Simulator 99 Script Mining events! UPDATE [PS99]
+    # Pet Simulator 99 Script Mining events! UPDATE [PS99]
 
 copy this script and paste into injector this is an all in 1
 
